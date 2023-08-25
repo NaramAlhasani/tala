@@ -20,6 +20,7 @@ const IndexGlitch = () => {
     animationChnage("rollIn");
   }, []);
 
+  
   return (
     <Layout>
       <div className="cavani_tm_mainpart absolute inset-[70px] overflow-hidden middle:inset-x-0 middle:bottom-0 middle:top-[55px]">
