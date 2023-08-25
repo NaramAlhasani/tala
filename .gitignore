@@ -1,1 +1,10 @@
-node_modules
+# Node.js related
+node_modules/
+npm-debug.log
+
+# OS related
+.DS_Store
+Thumbs.db
+
+# Next.js (if you're using Next.js)
+.next/
