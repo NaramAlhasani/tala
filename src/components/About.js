@@ -62,6 +62,13 @@ const About = () => {
                   in order to be successful in my future career. I am a hard worker, a fast learner, and
                   I am always looking for ways to improve myself. I am excited to see what the future holds
                   and I look forward to being a part of your community!
+                  <br></br><br></br>
+                  For work inquiries, please email me at <a
+                        className="text-[#7d7789] transition-all duration-300 hover:text-[#333]"
+                        href="mailto:talaalhasani06@gmail.com"
+                      >
+                        talaalhasani06@gmail.com
+                      </a>
                 </p>
               </div>
               <div className="right w-[50%]">
