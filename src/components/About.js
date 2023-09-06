@@ -104,10 +104,10 @@ const About = () => {
                   </li>
                   <li className="w-full float-left">
                     <span className="first inline-block min-w-[100px] font-bold">
-                      Phone:
+                      
                     </span>
                     <span className="second inline-block">
-                      +1 (734)-621-1047
+                      
                     </span>
                   </li>
                 </ul>
