@@ -96,9 +96,9 @@ const About = () => {
                     <span className="second inline-block">
                       <a
                         className="text-[#7d7789] transition-all duration-300 hover:text-[#333]"
-                        href="mailto:talaalhasani@gmail.com"
+                        href="mailto:talaalhasani06@gmail.com"
                       >
-                        talaalhasani@gmail.com
+                        talaalhasani06@gmail.com
                       </a>
                     </span>
                   </li>
